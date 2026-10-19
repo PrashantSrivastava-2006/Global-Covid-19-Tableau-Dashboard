@@ -2,15 +2,8 @@
 
 An interactive Tableau Public project exploring reported COVID-19 cases and deaths over time, across countries, and by WHO region. The dashboard combines KPI cards, monthly trend charts with statistical forecasts, country rankings, regional comparisons, and filled world maps.
 
-> **Dashboard preview**
->
-> ![Global COVID-19 Analysis & Trends Dashboard](images/dashboard-preview.jpg)
-
 ## Interactive dashboard
-
-**Tableau Public:** [Add your published Tableau Public dashboard URL here](ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE)
-
-Replace the placeholder above after publishing the workbook on Tableau Public. Until then, the screenshot in this repository is a static preview, not an interactive dashboard.
+https://public.tableau.com/app/profile/prashant.srivastava4192/viz/Capstone_Project_1_17890294975280/COVID-19Dashboard
 
 ## Project objective
 
